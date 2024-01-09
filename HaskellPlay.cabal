@@ -61,8 +61,12 @@ executable HaskellPlay
     main-is:          Main.hs
 
     -- Modules included in this executable, other than Main.
-    -- other-modules:
-       
+    other-modules:
+            T1 
+        ,   T2
+        ,   T3
+        ,   T4
+        ,   T5   
 
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
