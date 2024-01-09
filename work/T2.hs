@@ -2,7 +2,7 @@ module T2 where
 
 
 import Data.List (intercalate)
-import T1
+import T1 
 import Data.String (IsString)
 
 
