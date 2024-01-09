@@ -1,7 +1,5 @@
 module T3 where
 
-
-
 import Data.List (transpose)
 import T1
 import T2 
